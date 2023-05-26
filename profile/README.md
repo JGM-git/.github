@@ -1,3 +1,3 @@
 <div align="center">
-JGM
+  <h3>JGM</h3>
 </div>
