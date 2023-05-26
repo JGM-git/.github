@@ -14,6 +14,11 @@
             <td align='center'>Hyunseo</td>
             <td align='center'>Jihwan</td>
           </tr>
+          <tr>
+            <td align='center'>Server & Client</td>
+            <td align='center'>Client</td>
+            <td align='center'>Client</td>
+          </tr>
         </tr>
     </tbody>
 </table>
