@@ -23,6 +23,7 @@
     </tbody>
   </table>
   <h5>🖥️ Our skills 🖥️</h5>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=Gray"/>
-  <img src="https://img.shields.io/badge/Unreal Engine-FFFFFF?style=flat-square&logo=Unreal Engine&logoColor=Gray"/> 
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=Gray"/>
+  <br>
+  <img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=Gray"/> 
 </div>
