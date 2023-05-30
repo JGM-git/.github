@@ -22,7 +22,7 @@
         </tr>
     </tbody>
   </table>
-  <h5>🖥️  Our skills  🖥️</h5>
+  <h5>🖥️&nbsp; Our skills  &nbsp;🖥️</h5>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=Gray"/>
   <br>
   <img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=Gray"/> 
